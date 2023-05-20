@@ -1,4 +1,4 @@
-#before executing please run the
+# before executing please run the
 ### `npm i` 
 command in each of the folders (features,register,front) to create the dependencies required by the project
 
